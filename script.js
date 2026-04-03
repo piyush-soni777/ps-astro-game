@@ -1,5 +1,5 @@
 // ═══════════════════════════════════════════════════════
-//  CANVAS & RESPONSIVE SIZING
+//  CANVAS & RESPONSIVE SIZING develope by piyush soni
 // ═══════════════════════════════════════════════════════
 const canvas = document.getElementById('canvas');
 const ctx = canvas.getContext('2d');
