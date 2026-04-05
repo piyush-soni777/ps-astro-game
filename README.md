@@ -9,7 +9,10 @@ In this game, you control an aircraft in space and fight against incoming enemie
 🔗 https://ps-astro-game.netlify.app
 
 ---
+![game](https://github.com/user-attachments/assets/c822f889-4a61-4126-84cd-106a07b3c229)
 
+
+---
 ## ✨ Features
 - 🚀 Space-themed shooting gameplay  
 - ✈️ Player-controlled aircraft movement  
