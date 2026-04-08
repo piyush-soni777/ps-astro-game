@@ -5,7 +5,7 @@ In this game, you control an aircraft in space and fight against incoming enemie
 
 ---
 
-## 🎮 Live Demo
+## 🎮 Live Demo         
 🔗 https://ps-astro-game.netlify.app
 
 ---
