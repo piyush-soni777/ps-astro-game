@@ -1,4 +1,4 @@
-# 🚀 Astro Attack Game
+# 🚀 Astro Attack Game.
 
 Astro Attack is an exciting space shooting game built using HTML, CSS, and JavaScript.  
 In this game, you control an aircraft in space and fight against incoming enemies by shooting them and surviving as long as possible.
