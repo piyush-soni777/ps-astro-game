@@ -32,8 +32,8 @@ In this game, you control an aircraft in space and fight against incoming enemie
 ---
 
 ## 🛠️ Technologies Used
-- HTML5  
-- CSS3  
+- HTML
+- CSS 
 - JavaScript  
 
 ---
